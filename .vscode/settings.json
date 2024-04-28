@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "system_error": "c",
+        "random": "c",
+        "sstream": "c",
+        "chrono": "c",
+        "ctime": "c"
+    }
+}
